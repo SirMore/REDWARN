@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/REDWARN_img.png" width="450" title="REDWARN">
+</p>
+
+
 # REDWARN
 REDWARN (Reddit Data for Early Warning and Response to Pandemics) is an acronym for Reddit Data for Pandemic Preparedness.
 This project is part of HackHPC - SC23's HPC in the City: Austin hackathon.  In this project, conversations in the  [Austin sub-Reddit](https://www.reddit.com/r/Austin/) are used to:
