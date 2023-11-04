@@ -5,7 +5,7 @@
 
 # REDWARN
 REDWARN (Reddit Data for Early Warning and Response to Pandemics) is an acronym for Reddit Data for Pandemic Preparedness.
-This project is part of HackHPC - SC23's HPC in the City: Austin hackathon.  In this project, conversations in the  [Austin sub-Reddit](https://www.reddit.com/r/Austin/) are used to:
+This project is part of HackHPC - SC23's HPC in the City: Pandemics hackathon.  In this project, conversations in the  [Austin sub-Reddit](https://www.reddit.com/r/Austin/) are used to:
 1. Track community opinions to pandemic-related policies.
 2. Estimate community pandemic preventative behaviors such as Masking, vaccination, social distancing
 
