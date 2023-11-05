@@ -45,6 +45,13 @@ For more infomation please check out the HackHPC webpage [here](https://hackhpc.
 
 
 ## Background and Description:
+**Research Question 1: Can we use Reddit conversations to track community opinions to pandemic-related policies?**
+
+Description 1: A major source of uncertainty during the pandemic was our inability to anticipate community responses to pandemic policies. For example, not all individuals followed guidelines related to mask wearing or business closing when they were implemented.Many regions hired communication specialists and carried out traditional surveys to guide their decision-making, but these can be costly for measuring public opinions in real-time. Community conversations on social media platforms may serve as an inexpensive and real-time option for tracking community sentiment to guidelines. For this project, we will ask groups to harness the text communications available on Reddit city-level subreddits to estimate community opinions and sentiment related to policy changes during the pandemic. We will provide Reddit data from Austin and a timeline of impactful Austin policies to participants, and it will be up to participants to come up with strategies to do so.
+
+**Research Question 2: Can we use Reddit conversations to estimate community pandemic preventative behaviors?**
+
+Description 2: It was difficult to measure community protective efforts such as vaccination or mask wearing behaviors during the pandemic in real-time, so researchers resorted to traditional and digital surveys. However, these surveys were costly and were discontinued following the emergence of the Omicron variant. However, infectious disease modelers and public health officials continue to have a pressing need to estimate and anticipate changes to mask.wearing and vaccination rates. Community conversations on social media platforms may provide a lens to community protective behaviors. For this project, we will ask groups to harness text conversations from Reddity city-level subreddits to estimate the rates which community members are wearing masks and being vaccinated. To do so, we will provde access to Reddit conversations from multiple cities alongside the estimates for mask wearing and vaccination rates from the same time period.
 
 
 ## Goals:
