@@ -152,14 +152,17 @@ Description 2: It was difficult to measure community protective efforts such as 
 
 
 ## Implementations:
-
+- 
 
 
 ## Deliverables:
-
+- PDF of Team Presentation: [embed]http://example.com/file.pdf[/embed]
+-
+-
 
 
 ## Resources:
+
 
 
 ## References:
