@@ -144,19 +144,15 @@ Description 2: It was difficult to measure community protective efforts such as 
 - Task 5: Topic modeling (5 hours).
 
 
-
-
-
-
 ## Goals:
-
+- 
 
 ## Implementations:
 - 
 
 
 ## Deliverables:
-- PDF of Team Presentation: [embed]http://example.com/file.pdf[/embed]
+- PDF of Team Presentation: [embed] Day3-AfternoonCheckin-TechnologyandProgress.pdf  [/embed]
 -
 -
 
