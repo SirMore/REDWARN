@@ -154,13 +154,13 @@ Description 2: It was difficult to measure community protective efforts such as 
 -
 
 ## Deliverables:
-Team Introduction Slide
+Team Introduction Slide:
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/main_page.png" width="450" title="page1">
-Goals + Tasks
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/map_goals.png" width="450" title="page2">\
-Project Plan
+Goals + Tasks:
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/map_goals.png" width="450" title="page2">
+Project Plan:
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/projectplan.png" width="450" title="page3">
-Updates
+Updates:
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/updates.png" width="450" title="page4">
 ## Resources:
 
