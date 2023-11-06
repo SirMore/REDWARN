@@ -2,6 +2,26 @@
   <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/REDWARN_img.png" width="450" title="REDWARN">
 </p>
 
+# TABLE OF CONTENTS
+- [REDWARN](#redwarn)
+  * [Team Members:](#team-members-)
+  * [Mentors:](#mentors-)
+  * [Background and Description:](#background-and-description-)
+  * [Project Plan:](#project-plan-)
+      - [Tasks and Sub-Tasks](#tasks-and-sub-tasks)
+      - [Resources Required](#resources-required)
+  * [Implementations:](#implementations-)
+    + [Data and Preprpocessing](#data-and-preprpocessing)
+      - [DATA SOURCES](#data-sources)
+      - [DATA DESCRIPTION:](#data-description-)
+  * [Deliverables:](#deliverables-)
+    + [Team Introduction Slide:](#team-introduction-slide-)
+    + [Goals + Tasks:](#goals---tasks-)
+    + [Project Plan:](#project-plan--1)
+    + [Updates:](#updates-)
+  * [Resources:](#resources-)
+
+***
 
 # REDWARN
 REDWARN (Reddit Data for Early Warning and Response to Pandemics) is an acronym for Reddit Data for Pandemic Preparedness.
@@ -137,16 +157,53 @@ Description 2: It was difficult to measure community protective efforts such as 
 ## Implementations:
 - The implementation of this code is that it is able to do all of the computational analysis needed to then compare results and get the answers to our main goal questions.
 
+***
+### Data and Preprpocessing
+
+#### DATA SOURCES
+1. [Staged alert timeline](https://docs.google.com/spreadsheets/d/1WuiltmgAQsmVy3C8V_S9OvVld2PNcXtzcBxKkbJbStM/edit?usp=sharing)
+
+2. [Reddit data](https://utexas.box.com/s/rnyd9y4w5k8vxg9is4pw11670f943zt9)
+
+3. [More organized datasets](https://docs.google.com/spreadsheets/d/1EJ4_YT9vfSXQ-tKHc1KBMeOVhbcBARESICiMXePbP1s/edit?usp=sharing)
+
+4. [Disease Data Sources (not really organized)](https://docs.google.com/spreadsheets/d/1V6WGQRDkD38MZrfg4urQvhmEdERBm-MHnRH1Vsjm4CY/edit?usp=sharing)
+
+5. [Staged-Alert Paper](https://covid-19.tacc.utexas.edu/media/filer_public/f9/58/f95850cc-1428-4966-8873-601bae0dc0e6/projections_for_austins_covid-19_staged_alert_system_incorporating_reported_cases_as_additional_indicator.pdf)
+
+#### DATA DESCRIPTION:
+The main data used for this project is the Reddit data which consist of post of users in the Austin subreddit from Jan 01 2019 to August 22, 2023 **(..... STILL EDITING)**
 
 ## Deliverables:
-Team Introduction Slide:
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/main_page.png" width="450" title="page1">
-Goals + Tasks:
+***
+### Team Introduction Slide:
+<p align="center">
+  <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/main_page.png" width="450" title="page1">
+</p>
+
+***
+
+### Goals + Tasks:
+<p align="center">
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/map_goals.png" width="450" title="page2">
-Project Plan:
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/projectplan.png" width="450" title="page3"><
-Updates:
+  </p>
+
+***
+
+### Project Plan:
+<p align="center">
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/projectplan.png" width="450" title="page3">
+  </p>
+
+***
+
+### Updates:
+<p align="center">
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/updates.png" width="450" title="page4">
+  </p>
+
+***
+
 ## Resources:
 - https://docs.google.com/spreadsheets/d/1WuiltmgAQsmVy3C8V_S9OvVld2PNcXtzcBxKkbJbStM/edit?usp=sharing
 - https://utexas.box.com/s/rnyd9y4w5k8vxg9is4pw11670f943zt9
