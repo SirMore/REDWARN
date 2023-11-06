@@ -116,15 +116,6 @@ Description 2: It was difficult to measure community protective efforts such as 
 - Performing temporal analysis.
 - Implementing topic modeling.
 
-
-**Project Team**:
-- Project Mentors: [Name]
-- Task 1: [Name]
-- Task 2: [Name]
-- Task 3: [Name]
-- Task 4: [name]
-- Task 5: [Name]
-
 **Project Communication Plan**:
 - Regular team meetings on Zoom and Discord.
 - Daily status reports to mentors.
@@ -143,31 +134,23 @@ Description 2: It was difficult to measure community protective efforts such as 
 - Task 4: Temporal analysis (5 hours).
 - Task 5: Topic modeling (5 hours).
 
-
-## Goals:
-- 
-
 ## Implementations:
--
--
--
--
+- The implementation of this code is that it is able to do all of the computational analysis needed to then compare results and get the answers to our main goal questions.
+
 
 ## Deliverables:
 Team Introduction Slide:
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/main_page.png" width="450" title="page1"><br>
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/main_page.png" width="450" title="page1">
 Goals + Tasks:
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/map_goals.png" width="450" title="page2"><br>
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/map_goals.png" width="450" title="page2">
 Project Plan:
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/projectplan.png" width="450" title="page3"><br>
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/projectplan.png" width="450" title="page3"><
 Updates:
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/updates.png" width="450" title="page4">
 ## Resources:
-
-
-
-## References:
-
+- https://docs.google.com/spreadsheets/d/1WuiltmgAQsmVy3C8V_S9OvVld2PNcXtzcBxKkbJbStM/edit?usp=sharing
+- https://utexas.box.com/s/rnyd9y4w5k8vxg9is4pw11670f943zt9
+- https://covid-19.tacc.utexas.edu/media/filer_public/f9/58/f95850cc-1428-4966-8873-601bae0dc0e6/projections_for_austins_covid-19_staged_alert_system_incorporating_reported_cases_as_additional_indicator.pdf
 
 
 
