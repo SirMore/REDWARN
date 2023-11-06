@@ -152,7 +152,7 @@ Description 2: It was difficult to measure community protective efforts such as 
 - Task 2: Time series analysis (Done).
 - Task 3: Post distribution analysis (Done).
 - Task 4: Temporal analysis (5 hours).
-- Task 5: Topic modeling (5 hours).
+- Task 5: Topic modeling (Done).
 
 ## Implementations:
 - The implementation of this code is that it is able to do all of the computational analysis needed to then compare results and get the answers to our main goal questions.
