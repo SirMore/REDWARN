@@ -152,7 +152,7 @@ Description 2: It was difficult to measure community protective efforts such as 
 
 
 ## Deliverables:
-- PDF of Team Presentation: [embed] [REDWARN_Combined](Slides Combined- REDWARN.pdf) [/embed]
+- PDF of Team Presentation: [REDWARN_Combined](Slides Combined- REDWARN.pdf)
 -
 -
 
