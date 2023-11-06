@@ -157,8 +157,8 @@ Description 2: It was difficult to measure community protective efforts such as 
 Team Introduction Slide
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/main_page.png" width="450" title="page1">
 <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/map_goals.png" width="450" title="page2">
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/project_plan.png" width="450" title="page3">
-<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/topic_modlling.png" width="450" title="page4">
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/projectplan.png" width="450" title="page3">
+<img src="https://github.com/SirMore/REDWARN/blob/main/Figures/updates.png" width="450" title="page4">
 ## Resources:
 
 
