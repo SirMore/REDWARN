@@ -7,7 +7,7 @@
 REDWARN (Reddit Data for Early Warning and Response to Pandemics) is an acronym for Reddit Data for Pandemic Preparedness.
 This project is part of HackHPC - SC23's HPC in the City: Pandemics hackathon.  In this project, conversations in the  [Austin sub-Reddit](https://www.reddit.com/r/Austin/) are used to:
 1. Track community opinions to pandemic-related policies.
-2. Estimate community pandemic preventative behaviors such as Masking, vaccination, social distancing
+2. Estimate community pandemic preventative behaviors such as Masking, Vaccination, and Social Distancing.
 
 For more infomation please check out the HackHPC webpage [here](https://hackhpc.github.io/hpcinthecity23/).
 
@@ -104,8 +104,9 @@ Description 2: It was difficult to measure community protective efforts such as 
 - Time series analysis tools (e.g., Python's pandas and statsmodels).
 - Topic modeling tools (e.g., Gensim for LDA).
 - Computational resources for data processing and analysis.
-- Github.- Human resources: computer scientists, data analysts, and domain experts (mentors).
-- Data analysis tools (Python and R)
+- Github.
+- Human resources: computer scientists, data analysts, and domain experts (mentors).
+- Data analysis tools (Python and R).
 
 
 **Project Scope**:
@@ -125,7 +126,7 @@ Description 2: It was difficult to measure community protective efforts such as 
 - Task 5: [Name]
 
 **Project Communication Plan**:
-- Regular team meetings on Zoom and Discord
+- Regular team meetings on Zoom and Discord.
 - Daily status reports to mentors.
 - Daily progress presentations to staff.
 
