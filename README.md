@@ -172,7 +172,7 @@ Description 2: It was difficult to measure community protective efforts such as 
 5. [Staged-Alert Paper](https://covid-19.tacc.utexas.edu/media/filer_public/f9/58/f95850cc-1428-4966-8873-601bae0dc0e6/projections_for_austins_covid-19_staged_alert_system_incorporating_reported_cases_as_additional_indicator.pdf)
 
 #### DATA DESCRIPTION:
-The main data used for this project is the Reddit data which consist of post of users in the Austin subreddit from Jan 01 2019 to August 22, 2023 **(..... STILL EDITING)**
+The main data used for this project is the Reddit data which consist of post of users in the Austin subreddit from January 01, 2019 to August 22, 2023. This data includes a very detailed set of information about the posts. Some of the labesl fro the individual posts is the date, author, and the body of th the text. This data also underwent text analysis by LIWC-22 software. The text analysis results give an even deeper insight into the contents of the different 'body' messeges. 
 
 ## Deliverables:
 ***
