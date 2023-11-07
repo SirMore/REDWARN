@@ -174,6 +174,10 @@ Description 2: It was difficult to measure community protective efforts such as 
 #### DATA DESCRIPTION:
 The main data used for this project is the Reddit data which consist of post of users in the Austin subreddit from January 01, 2019 to August 22, 2023. This data includes a very detailed set of information about the posts. Some of the labesl fro the individual posts is the date, author, and the body of th the text. This data also underwent text analysis by LIWC-22 software. The text analysis results give an even deeper insight into the contents of the different 'body' messeges. 
 
+<p align="center">
+  <img src="https://github.com/SirMore/REDWARN/blob/main/Figures/redit/see.PNG" width="750" title="page1">
+</p>
+
 ## Deliverables:
 ***
 ### Team Introduction Slide:
